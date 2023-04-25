@@ -1,0 +1,9 @@
+{
+  "name": "gpt",
+  "version": "1.0.0",
+  "description": "",
+  "author": "tgb-dev",
+  "license": "MIT",
+  "devDependencies": {
+  }
+}
